@@ -9,3 +9,4 @@ client_secret.json
 __pycache__/
 .credentials/
 *.pid
+lol.txt

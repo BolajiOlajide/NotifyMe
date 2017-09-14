@@ -1,0 +1,11 @@
+.env
+.vscode/
+.idea/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+client_secret.json
+__pycache__/
+.credentials/
+*.pid
